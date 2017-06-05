@@ -1,0 +1,30 @@
+.content-wrapper {
+  max-width: 550px;
+  margin: 0 auto;
+  padding: 1em;
+}
+
+.content {
+  text-align: center;
+}
+
+.portrait {
+  max-width: 80%;
+}
+
+h1 {
+  margin: 0.3em 1em 0.7em 1em;
+}
+.bio p {
+  text-align: justify;
+  line-height: 1.4;
+}
+
+.links-container {
+  text-align: center;
+}
+
+a .fa {
+  font-size: 2em;
+  color: #0084bf;
+}
